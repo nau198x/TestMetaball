@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E017DFE6-8746-5201-50D3-2DED098559E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Metaball/MetaBlob.shader">
+    <Files>
+      <File FileName="Assets/Metaball/MetaBlob.cs" Line="18" Column="25" />
+      <File FileName="Assets/Metaball/MetaBlob.shader" Line="10" Column="10" />
+      <File FileName="../../../Downloads/JellyShader-Example-master/Assets/JellyShader/Shaders/JellyShader.shader" Line="82" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
